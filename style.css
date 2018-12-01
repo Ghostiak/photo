@@ -1,0 +1,114 @@
+body, html {
+  background-color: #0e0011;
+  height: 100%;
+  margin: 0;
+  color: #fff;
+}
+
+p {
+
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    font-size:10px;
+    padding:2px;
+    color: #33143a; 
+}
+
+.spacer{
+  height: 100px;
+
+   font-family: 'Saira Extra Condensed', sans-serif;
+
+  font-size: 50px;
+  text-align: center;
+  color: #4e4151; 
+
+}
+
+.topImg{
+  position: relative;
+  opacity: 1;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("https://github.com/Ghostiak/photo/blob/master/img/FINALw3-3.jpg?raw=true");
+  min-height: 1000px;
+
+  font-family: 'Saira Extra Condensed', sans-serif;
+  font-size: 50px;
+  color: rgba(14,0,17,.6);
+}
+
+.img1{
+  position: relative;
+  opacity: 1;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("https://github.com/Ghostiak/photo/blob/master/img/finalW4-2.jpg?raw=true");
+  min-height: 1000px;
+}
+
+.img2{
+  position: relative;
+  opacity: 1;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("https://github.com/Ghostiak/photo/blob/master/img/finalW4-6.jpg?raw=true");
+  min-height: 1000px;
+}
+
+.img3{
+  position: relative;
+  opacity: 1;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("https://github.com/Ghostiak/photo/blob/master/img/finalW4-1.jpg?raw=true");
+  min-height: 400px;
+}
+
+.img4{
+  position: relative;
+  opacity: 1;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("https://github.com/Ghostiak/photo/blob/master/img/finalW4-3.jpg?raw=true");
+  min-height: 400px;
+}
+
+.img5{
+  position: relative;
+  opacity: 1;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("https://github.com/Ghostiak/photo/blob/master/img/finalW4-5.jpg?raw=true");
+  min-height: 1000px;
+}
+
+/*.floatTest {
+  float: left;
+  width: 300px;
+  height: 10px;
+  background: rgba(0,0,0,1); 
+}*/
+
+/*Scroll customs*/ 
+::-webkit-scrollbar {
+    width: 10px;
+}
+::-webkit-scrollbar-track {
+    background: #0e0011; 
+} 
+::-webkit-scrollbar-thumb {
+    background: #333135; 
+}
